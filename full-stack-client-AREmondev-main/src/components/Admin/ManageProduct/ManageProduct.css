@@ -1,0 +1,40 @@
+.mng-product-area {
+  background-color: #f4fcfb;
+  width: 80%;
+  float: right;
+  min-height: 100vh;
+}
+.area-header {
+  padding: 15px 50px;
+  background-color: #fff;
+}
+.area-header h4 {
+  margin-bottom: 0;
+  font-weight: 600;
+}
+.mng-product-area .main {
+  padding: 40px 35px;
+}
+.all-products-area {
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.products-title {
+  background-color: #f5f6fa;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.dlt-btn {
+  background-color: rgb(204, 74, 34);
+}
+.dlt-btn:hover {
+  background-color: rgb(204, 74, 34);
+}

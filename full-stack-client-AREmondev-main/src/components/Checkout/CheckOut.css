@@ -1,0 +1,9 @@
+.checkout-area {
+  padding: 160px 0;
+}
+.total {
+  background-color: #fff6f6;
+}
+.total td {
+  font-weight: bold;
+}
